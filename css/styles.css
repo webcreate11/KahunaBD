@@ -1,0 +1,34 @@
+
+#main-bg {
+    background-color: #F3F9F9;
+}
+
+
+#dom-bg {
+    background-color:#C0E0DE;
+}
+
+.dom-tc {
+    color:#035E7B;
+}
+
+.card-m-bottom {
+    margin-bottom: 120px;
+}
+
+
+/* Media Queries */
+
+@media (max-width:576px) {
+    .overlay {
+        background-color: rgba(0, 0, 0, 0.40);
+        border-radius: 2px;
+    }
+}
+
+
+@media (min-width: 1200px){
+    .container-fluid {
+        max-width: 1140px;
+    }
+}
