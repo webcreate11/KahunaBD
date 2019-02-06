@@ -51,6 +51,11 @@ label {
     display: flex;
 }
 
+.img-responsive {
+    width: auto;
+    height: 50vh;
+}
+
 
 
 /* Media Queries */
