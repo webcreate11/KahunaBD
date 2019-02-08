@@ -58,6 +58,19 @@ label {
 
 
 
+/* Iframe */
+
+.post-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 20px;
+
+height: 0;
+overflow: hidden;
+}
+
+
+
 /* Media Queries */
 
 @media (max-width:576px) {
