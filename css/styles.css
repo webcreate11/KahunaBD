@@ -61,17 +61,8 @@ label {
 
 /* Cards */
 
-.services-bg {
-    background-color: white;
-}
-
 .row.equal-height > [class*='col'] {
     display: flex;
-}
-
-.img-responsive {
-    width: auto;
-    height: 50vh;
 }
 
 
