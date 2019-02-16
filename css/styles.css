@@ -6,6 +6,11 @@
     background-color:#C0E0DE;
 }
 
+.nav-text {
+    color: #25695a;
+    font-size: .75rem;
+}
+
 .dom-tc {
     color: #25695a;
 }
