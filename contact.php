@@ -7,7 +7,7 @@
 $from = 'contact form <contact@domain.com>';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'contact form <embracehealinghands@gmail.com>';
+$sendTo = 'contact form <becdkahunamassage@outlook.com>';
 
 // subject of the email
 $subject = 'New message from your contact form';
