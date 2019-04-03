@@ -76,7 +76,7 @@ label {
 
 /* Carousel */
 
-@media (max-width: 768px) {
+@media (max-width: 576px) {
     .carousel .carousel-indicators {
        display: none;
     }
