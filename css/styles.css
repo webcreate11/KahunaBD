@@ -74,6 +74,14 @@ label {
 
 /* Media Queries */
 
+/* Carousel */
+
+@media (max-width: 768px) {
+    .carousel .carousel-indicators {
+       display: none;
+    }
+}
+
 
 /* Reviews Card-Columns */
 
@@ -121,6 +129,8 @@ label {
         
     }
 }  */
+
+
 
 
 @media (min-width: 1200px){
