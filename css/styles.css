@@ -7,17 +7,17 @@
 }
 
 .nav-text {
-    color: #25695a;
+    color: #4db8c2;
     font-size: .75rem;
 }
 
 .footer-text {
-    color: #25695a;
+    color: #4db8c2;
     font-size: 1rem;
 }
 
 .dom-tc {
-    color: #25695a;
+    color: #4db8c2;
 }
 
 a:hover {
@@ -114,12 +114,13 @@ label {
 
 
 
-@media (max-width:576px) {
+/* @media (max-width:576px) {
     .overlay {
         background-color: rgba(0, 0, 0, 0.40);
         border-radius: 2px;
+        
     }
-}
+}  */
 
 
 @media (min-width: 1200px){
